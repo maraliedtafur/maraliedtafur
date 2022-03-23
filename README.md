@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maraliedtafur&label=Profile%20views&color=0e75b6&style=plastic" alt="maraliedtafur" /> </p>
 
-- 🌱 I’m currently learning **Logic programing, git and github**
+- 🌱 I’m currently learning **Logic programing, JavaScript, git and github**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maraliedtafur](https://github.com/maraliedtafur)
 
